@@ -1,0 +1,81 @@
+@import url("@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto:wght@900&display=swap');");
+
+:root {
+  --dark-one: rgb(0, 0, 0);
+  --dark-two: #484848;
+  --main-color: #00a2ffd3;
+  --light-one: #fff;
+  --light-three: #f6f7fb;
+  --light-four: #90d3ffcc;
+  --light-five: #ffffff59;
+
+
+}
+
+
+  
+
+   /* Styles for the services container */
+   .services-container {
+    padding: 20px;
+    display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  }
+
+
+
+
+ 
+  /* General styles for the page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  
+  /* Styles for the service title */
+  h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin: 25px 0;
+    padding: 3rem;
+  }
+  
+  /* Styles for the services */
+  .service {
+    background-color: #f42121;
+    width: 100%;
+    max-width: 390px;
+    min-height: 520px;
+    
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 3rem 2rem;
+  overflow: hidden;
+
+  transition: 0.3s;
+  }
+  
+  
+  .service p {
+    font-size: 1.2rem;
+    align-items: space-evenly;
+    text-align:center;
+    display: block;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+   
+  }
+
+  UX (user experience) design 
+  Responsive Web Design
+  Professionally styled

@@ -1,0 +1,29 @@
+.container-2 {
+    max-width: 768px;
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
+  
+  
+   .header {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: var(--z-fixed);
+    background-color: var(--body-color);
+  }
+  
+   header.masthead {
+   
+    padding-top: 10.5rem;
+    padding-bottom: 20rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("/parllex-img/2\ -\ mountains\ landscape.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+  }
+  
